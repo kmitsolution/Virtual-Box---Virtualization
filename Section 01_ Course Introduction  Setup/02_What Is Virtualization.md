@@ -10,9 +10,7 @@ Instead of buying multiple physical servers, virtualization lets you **maximize 
 
 ![Image](https://documentation.suse.com/smart/virtualization-cloud/html/virtualization/images/virtualization-schema.png)
 
-![Image](https://www.researchgate.net/publication/242077512/figure/fig2/AS%3A282710602993666%401444414868359/Hosted-Virtual-Machine-Architecture.png)
 
-![Image](https://www.researchgate.net/profile/Bashir-Mohammed-2/publication/269636339/figure/fig1/AS%3A295113902313473%401447372045341/illustration-of-the-concept-of-Virtualization-7.png)
 
 ### Without Virtualization
 
@@ -89,11 +87,10 @@ Virtual Machines (Guest OS + Apps)
 
 ## Type 2 Hypervisor (Hosted Virtualization)
 
-![Image](https://www.researchgate.net/publication/335866538/figure/fig2/AS%3A882394324287494%401587390609903/Type-1-and-type-2-hypervisors.png)
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20240506165006/hosted-768.png)
 
-![Image](https://www.researchgate.net/publication/309650370/figure/fig2/AS%3A424422210314241%401478201548183/rtualBox-architecture-Bob-Netherton-2010.png)
+
 
 ### How It Works
 
